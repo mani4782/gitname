@@ -5,7 +5,7 @@ public static void main (String args[])
 
 {
 
-system.out.println("enter a number and alphabet word" );
+system.out.println("enter a number and alphabet word and to the child" );
 
 {
 {
